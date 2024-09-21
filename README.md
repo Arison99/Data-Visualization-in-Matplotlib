@@ -1,5 +1,5 @@
-<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
-
+![Forks](https://img.shields.io/badge/forks-1-blue)
+![Stars](https://img.shields.io/badge/stars-2-yellow)
 
 
 # Data Visualization in Matplotlib
