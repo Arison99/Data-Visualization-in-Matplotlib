@@ -1,6 +1,4 @@
-Based on the retrieved information, I have drafted a standard README.md file for your repository. Here it is:
 
----
 
 # Data Visualization in Matplotlib
 
